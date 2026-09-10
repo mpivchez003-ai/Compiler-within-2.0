@@ -1,0 +1,6 @@
+{
+  "name": "Compiler Within",
+  "description": "A Socratic cognitive programming coach that trains learners to bridge abstract logic to working syntax through 3-phase inquiry and faded code construction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
